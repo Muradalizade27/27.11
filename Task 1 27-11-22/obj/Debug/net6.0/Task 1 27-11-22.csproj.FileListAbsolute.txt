@@ -1,0 +1,15 @@
+C:\Users\Casper\source\repos\Task 1 27-11-22\Task 1 27-11-22\bin\Debug\net6.0\Task 1 27-11-22.exe
+C:\Users\Casper\source\repos\Task 1 27-11-22\Task 1 27-11-22\bin\Debug\net6.0\Task 1 27-11-22.deps.json
+C:\Users\Casper\source\repos\Task 1 27-11-22\Task 1 27-11-22\bin\Debug\net6.0\Task 1 27-11-22.runtimeconfig.json
+C:\Users\Casper\source\repos\Task 1 27-11-22\Task 1 27-11-22\bin\Debug\net6.0\Task 1 27-11-22.dll
+C:\Users\Casper\source\repos\Task 1 27-11-22\Task 1 27-11-22\bin\Debug\net6.0\Task 1 27-11-22.pdb
+C:\Users\Casper\source\repos\Task 1 27-11-22\Task 1 27-11-22\obj\Debug\net6.0\Task 1 27-11-22.csproj.AssemblyReference.cache
+C:\Users\Casper\source\repos\Task 1 27-11-22\Task 1 27-11-22\obj\Debug\net6.0\Task 1 27-11-22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\source\repos\Task 1 27-11-22\Task 1 27-11-22\obj\Debug\net6.0\Task 1 27-11-22.AssemblyInfoInputs.cache
+C:\Users\Casper\source\repos\Task 1 27-11-22\Task 1 27-11-22\obj\Debug\net6.0\Task 1 27-11-22.AssemblyInfo.cs
+C:\Users\Casper\source\repos\Task 1 27-11-22\Task 1 27-11-22\obj\Debug\net6.0\Task 1 27-11-22.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\Task 1 27-11-22\Task 1 27-11-22\obj\Debug\net6.0\Task 1 27-11-22.dll
+C:\Users\Casper\source\repos\Task 1 27-11-22\Task 1 27-11-22\obj\Debug\net6.0\refint\Task 1 27-11-22.dll
+C:\Users\Casper\source\repos\Task 1 27-11-22\Task 1 27-11-22\obj\Debug\net6.0\Task 1 27-11-22.pdb
+C:\Users\Casper\source\repos\Task 1 27-11-22\Task 1 27-11-22\obj\Debug\net6.0\Task 1 27-11-22.genruntimeconfig.cache
+C:\Users\Casper\source\repos\Task 1 27-11-22\Task 1 27-11-22\obj\Debug\net6.0\ref\Task 1 27-11-22.dll
